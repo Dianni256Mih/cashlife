@@ -1,14 +1,14 @@
 import { Colors } from 'react-native/Libraries/NewAppScreen';
 import {styled} from 'styled-components';
 
-export const background = styled.View`
+export const Background = styled.View`
   flex: 1;
   background-color: #f0f4ff;
 `;
 
-export const Container = styled.KeyboardAvoidinView``;
+export const Container = styled.KeyboardAvoidingView``;
 
-export const Logo = styled.image``;
+export const Logo = styled.Image``;
 
 export const AreaInput = styled.View``;
 
